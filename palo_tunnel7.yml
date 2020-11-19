@@ -26,7 +26,7 @@
     paloaltonetworks.panos.panos_tunnel:
       provider: 
         ip_address: "{{ server }}"
-        api_key: LUFRPT1NaXdwcGRHQk9kWVVTUmpCY1IrRll2SUNpbVk9SkFla3ZuZ3RKNHdnOFl6bkx5TzFJendmdkdwY3V1c3Bmem43bS8rNE1NaUFiQUswd2xSZHVBTkdSVEN2bGpIcw==
+        api_key: LUFRPT0wd3h5OGRiN3FUdVR6cTNNNkk1QTNSZCtzLzg9SkFla3ZuZ3RKNHdnOFl6bkx5TzFJNGlwOWxETHBIVE5Fd2tQSlpISUxYYWlKOVF4bUp6V1k2OS90dlBpckIrMQ==
       state: 'present'
       if_name: 'tunnel.3100'
       ip: '10.1.1.1/32'

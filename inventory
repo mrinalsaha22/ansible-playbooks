@@ -1,7 +1,7 @@
 [all]
 192.168.35.135
 
-#firewall
+firewall
 #ha_pair
 
 #panorama
